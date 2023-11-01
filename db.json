@@ -10,7 +10,10 @@
       "title": "Curso Noche",
       "q_alumnos": 56
     }
-  ], "Bills": [
+  ]
+}, 
+{
+ "Bills": [
     {
       "billId": 1,
       "mount": 40000,
