@@ -13,24 +13,24 @@
   ],
   "Bills": [
     {
-      "billId": "1L",
+      "billId": 1,
       "mount": 40000,
-      "customerId": 1L
+      "customerId": 1
     },
     {
-      "billId": "2L",
+      "billId": 2,
       "mount": 5500,
-      "customerId": 1L
+      "customerId": 1
     },
 	{
-      "billId": "3L",
+      "billId": 3,
       "mount": 25000,
-      "customerId": 2L
+      "customerId": 2
     },
 	{
-      "billId": "4L",
+      "billId": 4,
       "mount": 12700,
-      "customerId": 3L
+      "customerId": 3
     }
   ]
 }
