@@ -10,5 +10,26 @@
       "title": "Curso Noche",
       "q_alumnos": 56
     }
+  ], "Bills": [
+    {
+      "billId": 1,
+      "mount": 40000,
+      "customerId": 1
+    },
+    {
+      "billId": 2,
+      "mount": 5500,
+      "customerId": 1
+    },
+	{
+      "billId": 3,
+      "mount": 25000,
+      "customerId": 2
+    },
+	{
+      "billId": 4,
+      "mount": 12700,
+      "customerId": 3
+    }
   ]
 }
